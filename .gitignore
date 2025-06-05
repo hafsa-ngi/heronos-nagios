@@ -1,0 +1,4 @@
+etc/nagios.cfg
+etc/cgi.cfg  
+etc/htpasswd.users 
+etc/resource.cfg
